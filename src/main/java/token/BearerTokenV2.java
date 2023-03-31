@@ -30,6 +30,7 @@ public class BearerTokenV2 {
     }
 
 
+
     public void sendTestResults() throws IOException {
         String endpoint = "https://xray.cloud.getxray.app/api/v1/import/execution";
         String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5hbnQiOiJmNTBmMTdjOC00OTIyLTMwZjQtOGY1Mi0zYzc3MzcwODMxODAiLCJhY2NvdW50SWQiOiI2M2Y0YTIwNGUyYzRjNjkyYzk3Nzk5NGYiLCJpc1hlYSI6ZmFsc2UsImlhdCI6MTY3OTk5MDYzMywiZXhwIjoxNjgwMDc3MDMzLCJhdWQiOiJDRTRCRTEzNDlGNjc0QUMxQjQ0OUY1M0NERjI1Rjk1OCIsImlzcyI6ImNvbS54cGFuZGl0LnBsdWdpbnMueHJheSIsInN1YiI6IkNFNEJFMTM0OUY2NzRBQzFCNDQ5RjUzQ0RGMjVGOTU4In0.JVMk_whKexV7pkGbVFjAYj6k1Qa82WCgphkNCSNtHgs";
