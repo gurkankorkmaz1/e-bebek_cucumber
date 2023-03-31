@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ec6f16-73d9-409b-a9da-57e273710c01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="97ec6f16-73d9-409b-a9da-57e273710c01" name="Changes" comment="deneme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/token/BearerTokenV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/token/BearerTokenV2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,6 +222,50 @@
       <option name="presentableId" value="Default" />
       <updated>1679292764837</updated>
     </task>
+    <task id="LOCAL-00001" summary="das">
+      <created>1680243735845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680243735845</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dass">
+      <created>1680243820573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680243820573</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dassq">
+      <created>1680243854923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680243854923</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dassqı">
+      <created>1680243925643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680243925643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="deneme">
+      <created>1680244105345</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680244105345</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="das" />
+    <MESSAGE value="dass" />
+    <MESSAGE value="dassq" />
+    <MESSAGE value="dassqı" />
+    <MESSAGE value="deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
   </component>
 </project>
