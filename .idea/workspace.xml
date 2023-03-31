@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ec6f16-73d9-409b-a9da-57e273710c01" name="Changes" comment="deneme 3">
+    <list default="true" id="97ec6f16-73d9-409b-a9da-57e273710c01" name="Changes" comment="deneme 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/token/BearerTokenV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/token/BearerTokenV2.java" afterDir="false" />
     </list>
@@ -271,7 +271,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680247254436</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="deneme 4">
+      <created>1680248038236</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680248038236</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deneme 5">
+      <created>1680248121519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680248121519</updated>
+    </task>
+    <task id="LOCAL-00010" summary="deneme 6">
+      <created>1680250178936</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250178936</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,6 +303,9 @@
     <MESSAGE value="deneme" />
     <MESSAGE value="deneme 2" />
     <MESSAGE value="deneme 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme 3" />
+    <MESSAGE value="deneme 4" />
+    <MESSAGE value="deneme 5" />
+    <MESSAGE value="deneme 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme 6" />
   </component>
 </project>
