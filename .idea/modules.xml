@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e-bebek_cucumberr/e-bebek_cucumber/Trendyol.iml" filepath="$PROJECT_DIR$/e-bebek_cucumberr/e-bebek_cucumber/Trendyol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e-bebek_cucumberr.iml" filepath="$PROJECT_DIR$/.idea/e-bebek_cucumberr.iml" />
+    </modules>
+  </component>
+</project>
