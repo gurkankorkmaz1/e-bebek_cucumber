@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ec6f16-73d9-409b-a9da-57e273710c01" name="Changes" comment="deneme">
+    <list default="true" id="97ec6f16-73d9-409b-a9da-57e273710c01" name="Changes" comment="deneme 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/token/BearerTokenV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/token/BearerTokenV2.java" afterDir="false" />
     </list>
@@ -257,7 +257,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680244105345</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="deneme 2">
+      <created>1680245486107</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680245486107</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deneme 3">
+      <created>1680247254436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680247254436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,6 +280,8 @@
     <MESSAGE value="dassq" />
     <MESSAGE value="dassqı" />
     <MESSAGE value="deneme" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
+    <MESSAGE value="deneme 2" />
+    <MESSAGE value="deneme 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme 3" />
   </component>
 </project>
