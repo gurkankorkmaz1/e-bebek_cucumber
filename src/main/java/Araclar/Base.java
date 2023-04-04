@@ -30,6 +30,6 @@ public class Base{
     public void tearDown(){
         driver.getClass();
     }
-    //denemeeeeeeeeeeeeeeeeee
+    //denemeeeeeeeeeeeeeeeeeee
     // /usr/bin/git
 }
